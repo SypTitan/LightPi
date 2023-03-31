@@ -10,3 +10,8 @@ PREREQUISITES
 * You need to have a servo motor taped to your light switch
 * You need to have a PIR sensor connected to your pi trough GPIO pin 17
 * You need to have the servo connected to your pi trough GPIO pin 27
+* You need to have the following libraries installed:
+  * Flask
+  * GPIOzero
+  * Time
+  * Requests
